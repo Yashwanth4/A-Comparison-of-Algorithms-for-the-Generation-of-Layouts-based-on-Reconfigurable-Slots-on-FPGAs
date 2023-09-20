@@ -1,0 +1,6 @@
+Block1 3
+Block2 3
+Block3 3
+Block4 2
+Block5 2
+Block6 2

@@ -1,0 +1,3 @@
+fpga_width = 7
+fpga_height = 4
+preplaced_blocks = [{"name": "preplaced_block1", "x": 0, "y": 2, "width": 2, "height": 2},{"name": "preplaced_block2", "x": 4, "y": 0, "width": 1, "height": 4},{"name": "preplaced_block3", "x": 6, "y": 0, "width": 1, "height": 1}]
