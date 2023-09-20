@@ -67,7 +67,7 @@ runtime = 34.18572378158569
 final_bounding_area = 84
 ````
 
-![failed](Code/Figures/sample_vis.png)
+![failed](Codes/Figures/sample_vis.png)
 
 # FPGA Decision Problem
 This project tries to tell you if the given reconfigurable slots can be placed on a given FPGA. Here in this work Zynq-7020 and Zynq-7030 has been considered.
@@ -117,7 +117,7 @@ The sample output for the above input file:
 TRUE
 ````
 
-![failed](Code/Figures/sample_dec.png)
+![failed](Codes/Figures/sample_dec.png)
 
 Here in the Figure above the preplaced blocks are represented using black color blocks.
 
